@@ -87,3 +87,6 @@ letter-spacing: 3px;
     color: white;
     text-align: center;
 }
+button,password{
+    cursor:pointer;
+}
