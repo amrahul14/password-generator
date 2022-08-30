@@ -87,6 +87,9 @@ letter-spacing: 3px;
     color: white;
     text-align: center;
 }
-button,password{
+button:hover{
+    cursor:pointer;
+}
+.password:hover{
     cursor:pointer;
 }
